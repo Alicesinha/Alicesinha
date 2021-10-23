@@ -5,7 +5,7 @@
  <div>
   </p  text-align="center">
  - 🔭 Estou buscando oportunidades para ingressar na carreira de desenvolvedora web front-end <br>
-  - 🌱 Atualmente estou aprendendo JavaScript avançado e começando a aprender React <br>
+  - 🌱 Atualmente aprendendo JavaScript avançado e começando a aprender React <br>
 - 👯 Procuro colaborar com pessoas em que os feedbacks sejam bem avaliados <br>
 - 📫 Contato por linkedin: https://www.linkedin.com/in/alice-sousa-a88604204/ <br>
 - 😄 Pronomes: ela/dela
