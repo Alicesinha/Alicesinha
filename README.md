@@ -1,7 +1,5 @@
 ### Bem vindo! Me chamo Alice 👋
-<div align="center">
- <a href="https://www.criarbanner.com.br" title="criar banner" target="_blank"><img align="center" src="https://www.criarbanner.com.br/criargifs/a/e104054635e1f782c196d2766d2d682d.gif" width="400" height="400" border="0" /></a><br /><a href="https://www.criarbanner.com.br/logotipo/" title="criar logotipo" target="_blank"></a>
-</div>
+
  <div>
   </p  text-align="center">
  - 🔭 Estou buscando oportunidades para ingressar na carreira de desenvolvedora web front-end <br>
