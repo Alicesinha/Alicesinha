@@ -2,7 +2,7 @@
 
  <div>
   </p  text-align="center">
- - 🌱 Atualmente aprendendo JavaScript avançado e começando a aprender React <br>
+ - 🌱 Atualmente aprendendo JavaScript avançado e iniciando no React <br>
  - 📫 Contato por linkedin: https://www.linkedin.com/in/alice-sousaa/ <br>
  - 🔭 @ups_candy
 </p> 
