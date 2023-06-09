@@ -2,10 +2,9 @@
 
  <div>
   </p  text-align="center">
- - 🌱 JavaScript e React <br>
- - 💼 Junior FrontEnd Developer On CERBO<br>
- - 📫 Contato por linkedin: https://www.linkedin.com/in/alice-sousaa/ <br>
- - 🔭 @ups_candy
+ - 🌱 Typescript & ReactJs <br>
+ - 💼 FrontEnd Developer On Cebraspe<br>
+ - 📫 LinkedIn : https://www.linkedin.com/in/alice-sousaa/ <br>
 </p> 
 <div>
 
