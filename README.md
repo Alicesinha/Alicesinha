@@ -3,7 +3,7 @@
  <div>
   </p  text-align="center">
  - 🌱 Typescript & ReactJs <br>
- - 💼 Pleno FullStack Developer on BRISA<br>
+<!-- // - 💼 Pleno FullStack Developer on BRISA<br> -->
  - 📫 LinkedIn : https://www.linkedin.com/in/alice-sousaa/ <br>
 </p> 
 <div>
