@@ -1,4 +1,4 @@
-### Bem vindo! Me chamo Alice 👋
+### Welcome to my Alice borderland! 👋
 
  <div>
   </p  text-align="center">
